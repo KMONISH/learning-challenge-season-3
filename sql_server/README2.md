@@ -1,0 +1,2 @@
+## STUFF() :
+# In SQL Server, stuff() function is used to delete a sequence of given length of characters from the source string and inserting the given sequence of characters from the specified starting index. 
